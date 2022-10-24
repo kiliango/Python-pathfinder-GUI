@@ -21,7 +21,7 @@ When executing the `main.py` file , the app will look like this :
 - put your starting and ending points wherever you want
 - press `s` to start and `c` to clear !
 
-![vis](readme_imgs/vis.gif)
+![vis](readme_imgs/viz.gif)
 
 You can access the notice manipulating the `DOWN` and `UP` buttons.
 
