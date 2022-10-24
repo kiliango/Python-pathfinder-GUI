@@ -1,5 +1,5 @@
 # Python-pathfinder-GUI
-A pathfinding visualizer in python with a user interface made using pygame.\
+A pathfinding visualizer in python with a user interface made using pygame.
 
 For now, you can visualize 2 algos:
 
