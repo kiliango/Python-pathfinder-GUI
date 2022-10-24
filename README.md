@@ -13,4 +13,4 @@ if you want to run the source code avaible in this repository , make sure you ha
 
 When executing the `main.py` file , the app will look like this :
 
-![maze](readme_imgs/maze.gif)
+![main](readme_imgs/main.PNG)
