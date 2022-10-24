@@ -14,3 +14,15 @@ if you want to run the source code avaible in this repository , make sure you ha
 When executing the `main.py` file , the app will look like this :
 
 ![main](readme_imgs/main.PNG)
+
+**Select** :
+- your pathfinding algo
+- the speed of visualization 
+- put your starting and ending points wherever you want
+- visualize !
+
+You can access the notice manipulating the `DOWN` and `UP` buttons.
+
+You can also **randomly generate mazes** !!!
+
+![maze](readme_imgs/maze.gif)
