@@ -19,7 +19,9 @@ When executing the `main.py` file , the app will look like this :
 - your pathfinding algo
 - the speed of visualization 
 - put your starting and ending points wherever you want
-- visualize !
+- press `s` to start and `c` to clear !
+
+![vis](readme_imgs/vis.gif)
 
 You can access the notice manipulating the `DOWN` and `UP` buttons.
 
