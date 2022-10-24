@@ -1,5 +1,8 @@
 # Python-pathfinder-GUI
-A pathfinding visualizer in python with a user interface made using pygame. 
+A pathfinding visualizer in python with a user interface made using pygame.
+For now, you can visualize 2 algos:
+-A star
+-Dijkstra
 
 # Description
 
@@ -28,3 +31,6 @@ You can access the notice manipulating the `DOWN` and `UP` buttons.
 You can also **randomly generate mazes** !!!
 
 ![maze](readme_imgs/maze.gif)
+
+### HAVE FUN :)
+Contact me here : *kiatdotblend@gmail.com*
