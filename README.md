@@ -1,5 +1,5 @@
 # Python-pathfinder-GUI
-a pathfinding visualizer in python with a user interface made using pygame. 
+A pathfinding visualizer in python with a user interface made using pygame. 
 
 # Description
 
@@ -11,4 +11,5 @@ if you want to run the source code avaible in this repository , make sure you ha
 
 ## Global view
 
-Wheb executing  , the app will look like this :
+When executing the `main.py` file , the app will look like this :
+
